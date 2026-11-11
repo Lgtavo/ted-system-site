@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Parceria",
+      descricao: "Atendimento personalizado, buscando compreender as necessidades de cada cliente e oferecer soluções eficientes, com dedicação, respeito e confiança."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Luís Gustavo",
+      cargo: "CEO/Desenvolvedor Full Stack",
+      foto: "/images/LG.jpg",
+      alt: "Foto de Amy Farrah Fowler",
+      descricao: "Gestão empresarial e desenvolvimento de soluções tecnológicas inovadoras."
     }
   ]
 };
